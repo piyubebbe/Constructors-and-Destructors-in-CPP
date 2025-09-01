@@ -1,4 +1,4 @@
-# Constructors in C++
+# Constructors and Destructors in C++
 
 **Experiment No. 12**  
 **Name:** Piyush Pawar  
